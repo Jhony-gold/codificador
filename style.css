@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+body{
+    background-color: #F3F5FC;
+
+}
+.logo{
+    display: flex;
+    width: 120px;
+    padding: 40px;
+    margin-left: 40px;
+}
+h1{
+    width: 680px;
+    height: 48;
+    margin-left: 240px;
+    top: 168px;
+    font-size: 32px;
+    font-family: Interital, sans-serif; 
+    font-weight: 400;
+    color: #0A3871;
+    
+}
+
+.instrucao{
+    display: flex;
+    width: 280px;
+    height: 18px;
+    opacity: 80%;
+    margin-left: 240px;
+    margin-top: 400px;
+    flex-direction: column;
+    gap: 8px;
+    font-family: Interital, sans-serif; 
+    font-size: 12px;
+    
+}
+
+.link_link{
+display: flex;
+justify-content: space-between;
+}
+.link{
+    background-color: #0A3871;
+   width: 328px;
+   height: 67px;
+   text-align: center;
+}
